@@ -37,6 +37,12 @@ images/               project photos
    found, it starts an access point called `MEPA-Hand`.
 4. Browse to the hand's IP (printed over Serial) to open the control page.
 
+## Demo video
+
+[![Watch the demo](https://img.youtube.com/vi/HJqXraCBs9A/hqdefault.jpg)](https://www.youtube.com/watch?v=HJqXraCBs9A)
+
+<https://www.youtube.com/watch?v=HJqXraCBs9A>
+
 ## Image gallery
 
 | | | |
