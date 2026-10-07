@@ -1,0 +1,7 @@
+secrets.h
+*.swp
+*.bak
+.DS_Store
+build/
+.vscode/
+.pio/
