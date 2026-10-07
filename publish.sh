@@ -14,7 +14,7 @@ fi
 git init -q
 git add -A
 git -c user.name="Saka Adetayo Muhammed" \
-    -c user.email="${GIT_EMAIL:-research@veracorpus.com}" \
+    -c user.email="${GIT_EMAIL:-adetayosaka045@gmail.com}" \
     commit -q -m "Initial commit: MEPA hand controller"
 
 gh repo create "$REPO" "--$VIS" --source=. --remote=origin --push
